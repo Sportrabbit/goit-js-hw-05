@@ -9,7 +9,7 @@ const getTotalBalanceByGender = (users, gender) => {
     return userBalance;
 };
 
-const allUsers = [
+const allUsers2 = [
     {
     name: "Moore Hensley",
     gender: "male",
